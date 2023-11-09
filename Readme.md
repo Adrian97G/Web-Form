@@ -17,3 +17,5 @@ This is a static registration page project, created with HTML, CSS and JS.
 ## :link: Link to see the project in action
 
 [Here you can visit my website](https://web-form-adrian-dev.netlify.app)
+
+## :wave: Greetings!!
