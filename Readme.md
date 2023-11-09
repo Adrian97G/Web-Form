@@ -1,4 +1,4 @@
-## ## :rocket: Static Page
+## :rocket: Static Page
 
 ## :page_with_curl: Description
 
